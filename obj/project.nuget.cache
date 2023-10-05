@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DE2AOT28Y8urLt7anB5tYeC4RRP66mWqaQgeptOGxmaqty/nA27Y427IWUjjikJfEMcVjESvdAZisFxTk1/X6w==",
+  "success": true,
+  "projectFilePath": "/Users/yosuke_kaneko/codes/dmmf/dmmf.fsproj",
+  "expectedPackageFiles": [
+    "/Users/yosuke_kaneko/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
